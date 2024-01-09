@@ -11,6 +11,12 @@
       "ID": "os-desktop",
       "URL": "https://gs.statcounter.com/os-market-share/desktop/worldwide/chart.php?device=Desktop&device_hidden=desktop&statType_hidden=os_combined&region_hidden=ww&granularity=monthly&statType=Operating%20System&region=Worldwide&fromInt=200901&toInt=$currentDate&fromMonthYear=2009-01&toMonthYear=$DateWithDash&csv=1",
       "Output": "os/desktop.json"
+    },
+    {
+      "Name": "Operating Systems (mobile)",
+      "ID": "os-mobile",
+      "URL": "https://gs.statcounter.com/os-market-share/mobile/worldwide/chart.php?device=Mobile&device_hidden=mobile&statType_hidden=os_combined&region_hidden=ww&granularity=monthly&statType=Operating%20System&region=Worldwide&fromInt=200901&toInt=$currentDate&fromMonthYear=2009-01&toMonthYear=$DateWithDash&csv=1",
+      "Output": "os/mobile.json"
     }
   ]
 }
